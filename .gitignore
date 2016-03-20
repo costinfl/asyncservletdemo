@@ -10,3 +10,6 @@ target/
 
 # OS X
 .DS_Store
+/.settings/
+/.classpath
+/.project
